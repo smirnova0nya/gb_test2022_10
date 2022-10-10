@@ -2,6 +2,12 @@
 Test repo 2022
 
 local change
+<<<<<<< HEAD
+=======
+
+New local change
+
+>>>>>>> 2df9b1a (New local change)
 remote change
 remote list
 
